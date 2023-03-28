@@ -12,3 +12,5 @@ Curso introductorio a procesamientos de datos.
 1- Implementar 
 2-
 3- Desarrollar
+
+![](https://www.vamosaturistear.com/wp-content/uploads/2021/01/3-15-1024x650.jpg)
