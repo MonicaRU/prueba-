@@ -1,4 +1,4 @@
-# GF0604\
+# GF0604
 # Repositorio de pruba 
 
 Repositorio de prueba
@@ -10,7 +10,9 @@ Curso introductorio a procesamientos de datos.
 
 # Objetivos
 1- Implementar 
+
 2-
+
 3- Desarrollar
 
 ![](https://www.vamosaturistear.com/wp-content/uploads/2021/01/3-15-1024x650.jpg)
